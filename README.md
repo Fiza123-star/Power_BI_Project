@@ -1,4 +1,4 @@
-# Power_BI_Project
+# Sales Insight Data Analysis Project
 
 ## Problem statement
 
