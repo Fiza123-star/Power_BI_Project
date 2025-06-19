@@ -6,7 +6,7 @@
 
  ## Solution
  
-Sales director of the hardware Company, decided to build a PowerBI Dashboard for converting the data into visual representation to make data driven decisions. So, he hired a team of data people to complete this task.
+Sales director of the hardware Company, decided to build a PowerBI Dashboard for converting the data into visual representation to make data driven decisions. 
 
 ## Steps Followed in this project
 
